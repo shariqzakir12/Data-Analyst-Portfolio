@@ -74,9 +74,9 @@ Each project includes the **dataset, process, and insights** to demonstrate my a
 ---
 
 ## 📞 Contact
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)  
-💼 GitHub: [Your GitHub Profile](https://github.com/)  
+📧 Email: muhammadshariq368@gmail.com  
+🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-shariq-07a57328b/)  
+💼 GitHub: [Your GitHub Profile](https://github.com/shariqzakir12)  
 
 ---
 **⭐ If you find my projects interesting, feel free to star this repository!**
